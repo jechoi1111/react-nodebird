@@ -9,8 +9,11 @@
   "author": "jechoi",
   "license": "ISC",
   "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "antd": "^5.1.7",
     "next": "^9.5.5",
-    "prop-types": "^15.8.1"
+    "prop-types": "^15.8.1",
+    "styled-components": "^5.3.6"
   },
   "devDependencies": {
     "eslint": "^8.22.0",
