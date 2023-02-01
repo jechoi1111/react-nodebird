@@ -20,6 +20,7 @@
     "react-hooks"
   ],
   "rules": {
-
+    "indent": ["error", 3],
+    "no-console": "warn"
   }
 }
